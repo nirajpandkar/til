@@ -4,8 +4,8 @@
 
 ### C++
 
-* [Difference between size() and capacity()](c++/difference-between-size-and-capacity.md)
+* [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
 
 ### Miscellaneous
 
-* [Difference between VM and container(Docker)](miscellaneous/difference-between-vm-and-container.md)
+* [Difference between VM and container(Docker)](Miscellaneous/difference-between-vm-and-container.md)
