@@ -26,3 +26,5 @@
 
 * [Stopping/destroying vagrant instance](Miscellaneous/stopping-destroying-vagrant-instance.md)
 
+* [Difference between processor notations](Miscellaneous/difference-between-processor-notations.md)
+
