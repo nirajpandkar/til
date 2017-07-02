@@ -48,3 +48,7 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Difference between processor notations](Miscellaneous/difference-between-processor-notations.md)
 
+## License
+
+MIT © [Niraj Pandkar](https://github.com/nirajpandkar)
+
