@@ -10,6 +10,8 @@
 
 * [Clone git repository with a specific revision sheet](Git/clone-git-repository-with-a-specific-revision-sheet.md)
 
+* [Clone a specific git branch](Git/clone-a-specific-git-branch.md)
+
 ### Python
 
 * [UTF-8 encoding for non-ascii characters](Python/utf-8-encoding-for-non-ascii-characters.md)
