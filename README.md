@@ -2,6 +2,10 @@
 
 > Today I Learned
 
+The things that I learn day to day across a variety of languages and technologies with proper references for further reading. 
+
+11 `TIL` now. 
+
 ### C++
 
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
