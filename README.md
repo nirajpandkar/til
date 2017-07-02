@@ -6,6 +6,10 @@
 
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
 
+### CSS
+
+* [Align navbar item to the right (Bootstrap 4)](CSS/align-navbar-item-to-the-right.md)
+
 ### Git
 
 * [Clone git repository with a specific revision sheet](Git/clone-git-repository-with-a-specific-revision-sheet.md)
