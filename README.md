@@ -6,6 +6,16 @@ The things that I learn day to day across a variety of languages and technologie
 
 11 `TIL` now. 
 
+---
+
+### Index
+
+* [C++](#c++)
+* [CSS](#css)
+* [Git](#git)
+* [Python](#python)
+* [Miscellaneous](#miscellaneous)
+
 ### C++
 
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
