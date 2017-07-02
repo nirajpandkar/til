@@ -17,3 +17,8 @@ or (using formats recognized by popular editors):
 ```
 
 **Note**: Python will default to ASCII as standard encoding if no other encoding hints are given.
+
+### References
+
+* [Stackoverflow](https://stackoverflow.com/a/24221963/4411757)
+* [Defining Python Source Code Encodings(Official)](https://www.python.org/dev/peps/pep-0263/#id8)
