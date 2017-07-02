@@ -10,7 +10,7 @@ The things that I learn day to day across a variety of languages and technologie
 
 ### Index
 
-* [C++](#c++)
+* [C++](#c)
 * [CSS](#css)
 * [Git](#git)
 * [Python](#python)
