@@ -8,18 +8,9 @@
 
 ### Python
 
-* [utf-8 encoding for non-ascii characters](Python/utf-8-encoding-for-non-ascii-characters.md)
+* [UTF-8 encoding for non-ascii characters](Python/utf-8-encoding-for-non-ascii-characters.md)
 
-
-
-
-### Git
-
-
-
-
-### CSS
-
+* [Creating a Postgresql database using psycopg2](Python/creating-a-postgresql-database-using-psycopg2.md)
 
 
 ### Miscellaneous
