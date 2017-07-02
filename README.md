@@ -8,7 +8,7 @@
 
 ### Python
 
-* [utf-8 encoding for non-ascii characters]()
+* [utf-8 encoding for non-ascii characters](Python/utf-8-encoding-for-non-ascii-characters.md)
 
 
 
