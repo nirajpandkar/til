@@ -24,6 +24,8 @@
 
 * [Augmented assignment implementation](Python/augmented-assignment-implementation.md)
 
+* [Unicode object has no attribute ''](Python/unicode-object-has-no-attribute.md)
+
 ### Miscellaneous
 
 * [Difference between VM and container(Docker)](Miscellaneous/difference-between-vm-and-container.md)
