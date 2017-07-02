@@ -1,3 +1,5 @@
+# UTF-8 encoding for non ascii characters
+
 **Problem**:  Unicode literals can only be written using the Latin-1 based encoding "unicode-escape". This makes the programming environment rather unfriendly to Python users who live and work in non-Latin-1 locales such as many of the Asian countries. Programmers can write their 8-bit strings using the favorite encoding, but are bound to the "unicode-escape" encoding for Unicode literals.
 
 **Solution**: 
