@@ -12,6 +12,7 @@
 
 * [Creating a Postgresql database using psycopg2](Python/creating-a-postgresql-database-using-psycopg2.md)
 
+* [Augmented assignment implementation](Python/augmented-assignment-implementation.md)
 
 ### Miscellaneous
 
