@@ -24,3 +24,5 @@
 
 * [Difference between VM and container(Docker)](Miscellaneous/difference-between-vm-and-container.md)
 
+* [Stopping/destroying vagrant instance](Miscellaneous/stopping-destroying-vagrant-instance.md)
+
