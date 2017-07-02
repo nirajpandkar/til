@@ -6,6 +6,10 @@
 
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
 
+### Git
+
+* [Clone git repository with a specific revision sheet](Git/clone-git-repository-with-a-specific-revision-sheet.md)
+
 ### Python
 
 * [UTF-8 encoding for non-ascii characters](Python/utf-8-encoding-for-non-ascii-characters.md)
