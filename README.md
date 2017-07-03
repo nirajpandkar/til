@@ -2,9 +2,9 @@
 
 > Today I Learned
 
-The things that I learn day to day across a variety of languages and technologies with proper references for further reading. 
+The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-11 `TIL` now. 
+11 `TIL` now.
 
 ---
 
@@ -19,6 +19,8 @@ The things that I learn day to day across a variety of languages and technologie
 ### C++
 
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
+
+* [Swapping elements using vector STL](C++/swapping-elements-using-vector-stl.md)
 
 ### CSS
 
@@ -51,4 +53,3 @@ The things that I learn day to day across a variety of languages and technologie
 ## License
 
 MIT © [Niraj Pandkar](https://github.com/nirajpandkar)
-
