@@ -14,6 +14,7 @@ The things that I learn day to day across a variety of languages and technologie
 * [CSS](#css)
 * [Git](#git)
 * [Python](#python)
+* [Competitive Programming](#competitive-programming)
 * [Miscellaneous](#miscellaneous)
 
 ### C++
@@ -41,6 +42,10 @@ The things that I learn day to day across a variety of languages and technologie
 * [Augmented assignment implementation](Python/augmented-assignment-implementation.md)
 
 * [Unicode object has no attribute ''](Python/unicode-object-has-no-attribute.md)
+
+### Competitive Programming
+
+* [LCM](CompetitiveProgramming/lcm.md)
 
 ### Miscellaneous
 
