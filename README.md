@@ -4,7 +4,7 @@
 
 The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-11 `TIL` now.
+13 `TIL` now.
 
 ---
 
