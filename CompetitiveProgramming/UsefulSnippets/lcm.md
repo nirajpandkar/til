@@ -13,4 +13,4 @@ ll lcm(vector<int> arr, int n){
 }
 ```
 
-Refer to this [trick](./TricksAndTips/trick-to-find-lcm.md) for an explanation of above code and for an easier way to calculate lcm.
+Refer to this [trick](../TricksAndTips/trick-to-find-lcm.md) for an explanation of above code and for an easier way to calculate lcm.
