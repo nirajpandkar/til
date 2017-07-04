@@ -15,6 +15,8 @@ The things that I learn day to day across a variety of languages and technologie
 * [Git](#git)
 * [Python](#python)
 * [Competitive Programming](#competitive-programming)
+  * [Useful Snippets]
+  * []
 * [Miscellaneous](#miscellaneous)
 
 ### C++
@@ -45,7 +47,7 @@ The things that I learn day to day across a variety of languages and technologie
 
 ### Competitive Programming
 
-* [LCM](CompetitiveProgramming/lcm.md)
+* [Trick to find LCM](CompetitiveProgramming/trick-to-find-lcm.md)
 
 ### Miscellaneous
 
