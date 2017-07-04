@@ -2,8 +2,11 @@
 
 Here,
 `a` is the array
+
 `n` is the number of elements in the array
+
 `k` is the number of elements to be rotated
+
 ```
 vector<int> array_left_rotation(vector<int> a, int n, int k) {
     vector<int>::iterator it;
