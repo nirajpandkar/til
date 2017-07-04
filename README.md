@@ -56,6 +56,8 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [GCD](CompetitiveProgramming/UsefulSnippets/gcd.md)
 
+* [LCM](CompetitiveProgramming/UsefulSnippets/lcm.md)
+
 ### Miscellaneous
 
 * [Difference between VM and container(Docker)](Miscellaneous/difference-between-vm-and-container.md)
