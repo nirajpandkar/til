@@ -52,6 +52,8 @@ The things that I learn day to day across a variety of languages and technologie
 #### Tricks and Tips
 * [Trick to find LCM](CompetitiveProgramming/TricksAndTips/trick-to-find-lcm.md)
 
+* [Data type ranges](CompetitiveProgramming/TricksAndTips/data-type-ranges.md)
+
 #### Useful Snippets
 
 * [Left/Right rotation of array](CompetitiveProgramming/UsefulSnippets/left-or-right-rotation-of-array.md)
