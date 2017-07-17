@@ -37,6 +37,10 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Clone a specific git branch](Git/clone-a-specific-git-branch.md)
 
+### Linux
+
+* [Find specific user's uid/gid](Linux/find-specific-users-uid-gid.md)
+
 ### Python
 
 * [UTF-8 encoding for non-ascii characters](Python/utf-8-encoding-for-non-ascii-characters.md)
