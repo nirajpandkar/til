@@ -4,7 +4,7 @@
 
 The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-16 `TIL` now.
+19 `TIL` now.
 
 ---
 
@@ -13,6 +13,7 @@ The things that I learn day to day across a variety of languages and technologie
 * [C++](#c)
 * [CSS](#css)
 * [Git](#git)
+* [Linux](#linux)
 * [Python](#python)
 * [Competitive Programming](#competitive-programming)
   * [Useful Snippets](#useful-snippets)
