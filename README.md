@@ -11,13 +11,13 @@ The things that I learn day to day across a variety of languages and technologie
 ### Index
 
 * [C++](#c)
+* [Competitive Programming](#competitive-programming)
+  * [Useful Snippets](#useful-snippets)
+  * [Tricks and Tips](#tricks-and-tips)
 * [CSS](#css)
 * [Git](#git)
 * [Linux](#linux)
 * [Python](#python)
-* [Competitive Programming](#competitive-programming)
-  * [Useful Snippets](#useful-snippets)
-  * [Tricks and Tips](#tricks-and-tips)
 * [Miscellaneous](#miscellaneous)
 
 ---
@@ -27,6 +27,23 @@ The things that I learn day to day across a variety of languages and technologie
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
 
 * [Swapping elements using vector STL](C++/swapping-elements-using-vector-stl.md)
+
+### Competitive Programming
+
+#### Tricks and Tips
+* [Trick to find LCM](CompetitiveProgramming/TricksAndTips/trick-to-find-lcm.md)
+
+* [Data type ranges](CompetitiveProgramming/TricksAndTips/data-type-ranges.md)
+
+#### Useful Snippets
+
+* [Left/Right rotation of array](CompetitiveProgramming/UsefulSnippets/left-or-right-rotation-of-array.md)
+
+* [GCD](CompetitiveProgramming/UsefulSnippets/gcd.md)
+
+* [LCM](CompetitiveProgramming/UsefulSnippets/lcm.md)
+
+* [Factorial](CompetitiveProgramming/UsefulSnippets/factorial.md)
 
 ### CSS
 
@@ -51,23 +68,6 @@ The things that I learn day to day across a variety of languages and technologie
 * [Augmented assignment implementation](Python/augmented-assignment-implementation.md)
 
 * [Unicode object has no attribute ''](Python/unicode-object-has-no-attribute.md)
-
-### Competitive Programming
-
-#### Tricks and Tips
-* [Trick to find LCM](CompetitiveProgramming/TricksAndTips/trick-to-find-lcm.md)
-
-* [Data type ranges](CompetitiveProgramming/TricksAndTips/data-type-ranges.md)
-
-#### Useful Snippets
-
-* [Left/Right rotation of array](CompetitiveProgramming/UsefulSnippets/left-or-right-rotation-of-array.md)
-
-* [GCD](CompetitiveProgramming/UsefulSnippets/gcd.md)
-
-* [LCM](CompetitiveProgramming/UsefulSnippets/lcm.md)
-
-* [Factorial](CompetitiveProgramming/UsefulSnippets/factorial.md)
 
 ### Miscellaneous
 
