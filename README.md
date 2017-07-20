@@ -30,6 +30,8 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Using range-based 'for'](C++/using-range-based-for.md)
 
+* [In-built function to check whether character is alphabet](C++/in-built-function-to-check-whether-char-is-alpha.md)
+
 ### Competitive Programming
 
 #### Tricks and Tips
