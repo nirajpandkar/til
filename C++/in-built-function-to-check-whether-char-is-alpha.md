@@ -32,4 +32,4 @@ C is an alphabet!
 ### References
 
 * [Docs](http://www.cplusplus.com/reference/cctype/isalpha/)
-* [Range-based for](./using-ranged-based-for.md)
+* [Range-based for](./using-range-based-for.md)
