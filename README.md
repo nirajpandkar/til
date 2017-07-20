@@ -4,7 +4,7 @@
 
 The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-19 `TIL` now.
+20 `TIL` now.
 
 ---
 
@@ -27,6 +27,8 @@ The things that I learn day to day across a variety of languages and technologie
 * [Difference between size() and capacity()](C++/difference-between-size-and-capacity.md)
 
 * [Swapping elements using vector STL](C++/swapping-elements-using-vector-stl.md)
+
+* [Using range-based 'for'](C++/using-range-based-for.md)
 
 ### Competitive Programming
 
