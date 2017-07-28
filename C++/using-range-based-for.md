@@ -32,6 +32,12 @@ for (auto x : v)	//Observing values
 ```
 _=> 10 30 50 70 90_
 
+
+**Note**: Compile using g++ with the `-std=c++0x` flag.
+
+For example, `g++ -std=c++0x program.cpp`.
+
 ### References
 
 * [StackOverflow](https://stackoverflow.com/a/15927037/4411757)
+* [Compiling using c++11](https://stackoverflow.com/a/26740283/4411757)
