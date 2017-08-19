@@ -4,7 +4,7 @@
 
 The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-21 `TIL` now.
+22 `TIL` now.
 
 ---
 
@@ -19,6 +19,7 @@ The things that I learn day to day across a variety of languages and technologie
 * [Linux](#linux)
 * [Python](#python)
 * [Miscellaneous](#miscellaneous)
+* [TensorFlow](#tensorflow)
 
 ---
 
@@ -80,6 +81,10 @@ The things that I learn day to day across a variety of languages and technologie
 * [Stopping/destroying vagrant instance](Miscellaneous/stopping-destroying-vagrant-instance.md)
 
 * [Difference between processor notations](Miscellaneous/difference-between-processor-notations.md)
+
+### TensorFlow
+
+* [Significance of `None` in shape parameter in plceholder](TensorFlow/none-in-shape-placeholder.md)
 
 ## License
 
