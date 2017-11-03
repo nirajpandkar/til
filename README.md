@@ -4,7 +4,7 @@
 
 The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-22 `TIL` now.
+23 `TIL` now.
 
 ---
 
@@ -32,6 +32,9 @@ The things that I learn day to day across a variety of languages and technologie
 * [Using range-based 'for'](C++/using-range-based-for.md)
 
 * [In-built function to check whether character is alphabet](C++/in-built-function-to-check-whether-char-is-alpha.md)
+
+* [Random number function](C++/random-number-function.md)
+
 
 ### Competitive Programming
 
