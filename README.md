@@ -35,7 +35,7 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Random number function](C++/random-number-function.md)
 
-* [2D/3D arrays using Vector](2d-3d-arrays-using-vector.md)
+* [2D/3D arrays using Vector](C++/2d-3d-arrays-using-vector.md)
 
 
 ### Competitive Programming
