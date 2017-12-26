@@ -4,7 +4,7 @@
 
 The things that I learn day to day across a variety of languages and technologies with proper references for further reading.
 
-24 `TIL` now.
+25 `TIL` now.
 
 ---
 
@@ -68,6 +68,8 @@ The things that I learn day to day across a variety of languages and technologie
 ### Linux
 
 * [Find specific user's uid/gid](Linux/find-specific-users-uid-gid.md)
+
+* [Move all files except one](Linux/move-all-files-except-one.md)
 
 ### Python
 
