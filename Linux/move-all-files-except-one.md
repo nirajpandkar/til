@@ -16,8 +16,8 @@ into -
 ```
 A
 -- a
-	-- file1
-	-- file2
+---- file1
+---- file2
 ```
 
 
