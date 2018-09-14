@@ -81,6 +81,8 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Unicode object has no attribute ''](Python/unicode-object-has-no-attribute.md)
 
+* [Unable to load files using pickle](Python/unable-to-load-files-using-pickle.md)
+
 ### Miscellaneous
 
 * [Difference between VM and container(Docker)](Miscellaneous/difference-between-vm-and-container.md)
