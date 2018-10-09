@@ -83,6 +83,8 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Unable to load files using pickle](Python/unable-to-load-files-using-pickle.md)
 
+* [Wand image library policy error](Python/wand-image-library-policy-error.md)
+
 ### Miscellaneous
 
 * [Difference between VM and container(Docker)](Miscellaneous/difference-between-vm-and-container.md)
