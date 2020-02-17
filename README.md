@@ -55,6 +55,8 @@ The things that I learn day to day across a variety of languages and technologie
 
 * [Factorial](CompetitiveProgramming/UsefulSnippets/factorial.md)
 
+* [Python Counter](CompetitiveProgramming/UsefulSnippets/counter-python.md)
+
 ### CSS
 
 * [Align navbar item to the right (Bootstrap 4)](CSS/align-navbar-item-to-the-right.md)
